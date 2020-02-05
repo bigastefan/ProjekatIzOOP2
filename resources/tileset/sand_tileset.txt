@@ -1,0 +1,7 @@
+resources/tilesets/sandwater.png
+
+t 0 0 32 32
+
+b 32 160 32 32
+
+c 0 0 32 32
